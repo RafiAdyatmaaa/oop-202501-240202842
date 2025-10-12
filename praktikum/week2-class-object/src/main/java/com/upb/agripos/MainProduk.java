@@ -29,7 +29,7 @@ public class MainProduk {
         System.out.println("Stok baru: " + p3.getStok());
 
         // Tampilkan identitas mahasiswa
-        CreditBy.print("240202841", "Pandu Dewanata");
+        CreditBy.print("240202842", "Muhammad Rafi Adyatma");
     }   
 
 }
