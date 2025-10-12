@@ -25,8 +25,9 @@ public class MainProduk {
         System.out.println("Stok baru: " + p2.getStok());
 
         // Tampilkan identitas mahasiswa
-        CreditBy.print("2310112345", "Andi Pratama");
+        CreditBy.print("240202842", "Muhammad Rafi Adyatma");
     }
 }
+
 
 
