@@ -183,9 +183,8 @@ public class MainProduk {
 }
 ---
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/hasil.png)
-)
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/1db283f8-289d-41a7-ae06-ac4269cd632b" />
+
 ---
 
 ## Analisis
