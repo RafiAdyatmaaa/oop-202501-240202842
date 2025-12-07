@@ -195,10 +195,13 @@ public class MainInheritance {
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/hasil.png)
-)
----
+<img width="1920" height="1080" alt="Alatpertanianjv" src="https://github.com/user-attachments/assets/1dc8e4ad-d7d1-4cd3-b1d5-5d4baaf0c946" />
+<img width="1920" height="1080" alt="Produkjv" src="https://github.com/user-attachments/assets/98e62d79-209e-4c70-ae04-c8da2eff9e5f" />
+<img width="1920" height="1080" alt="Benihjv" src="https://github.com/user-attachments/assets/19fc8779-09ac-4d10-94dc-6871f7b9b25a" />
+<img width="1920" height="1080" alt="Pupukjva" src="https://github.com/user-attachments/assets/7219dbee-c72b-45c4-94aa-9fa838f6fcf8" />
+<img width="1920" height="1080" alt="Creditby," src="https://github.com/user-attachments/assets/4f4628e3-dc3c-461b-9402-89c57fac0d20" />
+<img width="1920" height="1080" alt="MainInherintancee" src="https://github.com/user-attachments/assets/c9e47505-5356-4830-88fd-bf4945aae370" />
+
 
 ## Analisis
 (
