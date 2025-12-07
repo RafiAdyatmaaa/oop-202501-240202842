@@ -345,9 +345,9 @@ public class MainPolymorphism {
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/hasil.png)
-)
+<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/9edb2f8d-4b0f-4650-9a82-3ee61fe0537b" />
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/22cdeb12-3fec-442f-a543-541f80e63a22" />
+
 ---
 
 ## Analisis
