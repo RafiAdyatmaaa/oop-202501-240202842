@@ -18,7 +18,7 @@ public class AppAgriPos extends Application {
     @Override
     public void start(Stage stage) {
         // 1. Identitas (Syarat Week 1)
-        System.out.println("Hello World, I am Kayla-240202837");
+        System.out.println("Hello World, I am Muhammad Rafi Adyatma-240202842");
 
         try {
             // 2. Setup Database & Layering (Dependency Injection)
@@ -34,7 +34,7 @@ public class AppAgriPos extends Application {
             new MainController(productService, cartService, view);
 
             stage.setScene(new Scene(view.asParent(), 800, 600));
-            stage.setTitle("Agri-POS Final Project - Kayla");
+            stage.setTitle("Agri-POS Final Project - Rafi");
             stage.show();
 
         } catch (Exception e) {
