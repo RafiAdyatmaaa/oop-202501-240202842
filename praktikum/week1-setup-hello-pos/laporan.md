@@ -1,5 +1,4 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
-Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
+Bab 1 – Pengenalan Paradigma dan Setup Proyek
 
 ## Identitas
 - Nama  : Muhammad Rafi Adyatma
